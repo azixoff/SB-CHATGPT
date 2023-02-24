@@ -33,3 +33,14 @@
 > *"Why did the programmer name his son 'Cache'? Because he was always in memory."*
 
 > *"Why did the database administrator break up with his girlfriend? He couldn't COMMIT to the relationship."*
+
+
+## which technology is the best for building web application, explain like gangster
+
+*Yo, listen up homie. When it comes to building web apps, there's a lotta tech out there to choose from, but I gotta tell ya, there's one that reigns supreme like the godfather of programming languages. And that's none other than... drumroll... JavaScript, my friend.*
+
+*JavaScript is the OG, the OG of web development. It's versatile, powerful, and can handle pretty much anything you throw at it. It's like a trusty sidekick that's always got your back. And don't even get me started on the frameworks and libraries built on top of JavaScript. React, Angular, Vue...these are some heavy hitters that'll make building web apps a breeze.*
+
+*But yo, let's not forget about the backend. When it comes to that, we gotta give props to Node.js. It's like the don of backend tech, allowing you to use JavaScript on the server side too. And with its non-blocking I/O and event-driven architecture, it's lightning fast, like a getaway car on a heist.*
+
+*So, to sum it up, if you wanna build web apps like a real gangsta, you gotta use JavaScript and Node.js. It's like having a crew of expert hackers on your side. Ain't no one gonna mess with you then.*
