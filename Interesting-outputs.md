@@ -18,6 +18,6 @@
 >
 > *Because he discovered a potential race condition that could lead to a critical section deadlock, and he wanted to optimize the algorithm to reduce the number of blocking operations!*
 
->* Why did the back-end developer get lost in the database?*
+> *Why did the back-end developer get lost in the database?*
 >
->* Because he couldn't find his way out of the table!*
+> *Because he couldn't find his way out of the table!*
