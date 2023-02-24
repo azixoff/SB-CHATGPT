@@ -1,4 +1,4 @@
-Top server side vulnerabilities#FF0000
+Top server side vulnerabilities #FF0000
 
 There are many different types of server-side vulnerabilities, but some of the most common ones include:
 
