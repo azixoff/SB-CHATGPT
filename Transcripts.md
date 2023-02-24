@@ -28,7 +28,7 @@
 (defn get-user-by-id [id]
   (query-database (format "SELECT * FROM users WHERE id = %s" id)))
   ```
-*In this code, user input is directly interpolated into a SQL query without proper sanitization, which can allow attackers to inject arbitrary SQL code.
+*In this code, user input is directly interpolated into a SQL query without proper sanitization, which can allow attackers to inject arbitrary SQL code.*
 
 ***Remediation:***
 
