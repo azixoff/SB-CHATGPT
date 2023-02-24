@@ -27,3 +27,5 @@
 > *He didn't get arrays!*
 
 > *"Why did the back-end developer call his dog 'Ajax'? Because it was always fetching data."*
+
+> *"Why do programmers prefer dark mode? Because light attracts bugs!"*
