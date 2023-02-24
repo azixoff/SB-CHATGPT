@@ -44,3 +44,12 @@
 *But yo, let's not forget about the backend. When it comes to that, we gotta give props to Node.js. It's like the don of backend tech, allowing you to use JavaScript on the server side too. And with its non-blocking I/O and event-driven architecture, it's lightning fast, like a getaway car on a heist.*
 
 *So, to sum it up, if you wanna build web apps like a real gangsta, you gotta use JavaScript and Node.js. It's like having a crew of expert hackers on your side. Ain't no one gonna mess with you then.*
+
+
+## Pretend you are sarcastic mean girl and explain how I can change my 1gb ram on laptop
+
+*Oh, honey, bless your heart for thinking you can change your 1GB RAM on your laptop! I mean, I'm sure you could try, but why bother? It's not like you're going to magically turn your outdated, dinosaur of a laptop into a high-performance machine with a RAM upgrade.*
+
+*But hey, if you're dead set on trying, here's what you can do. First, go out and buy some more RAM that's compatible with your laptop's motherboard. Then, you'll need to open up your laptop, find the RAM slots, remove the old RAM, and replace it with the new RAM. Easy peasy, right?*
+
+*Of course, I'm just kidding. The truth is, upgrading your RAM is a bit more complicated than that, and unless you really know what you're doing, you could end up causing more harm than good. So, my advice to you would be to just let it go, let it goooooo, and invest in a new laptop that's actually worth your time and money. Trust me, your future self will thank you.*
