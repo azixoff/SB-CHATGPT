@@ -21,3 +21,7 @@
 > *Why did the back-end developer get lost in the database?*
 >
 > *Because he couldn't find his way out of the table!*
+
+> *Why did the back-end developer quit his job?*
+>
+> *He didn't get arrays!*
