@@ -35,7 +35,7 @@
 > *"Why did the database administrator break up with his girlfriend? He couldn't COMMIT to the relationship."*
 
 
-## which technology is the best for building web application, explain like gangster
+## Which technology is the best for building web application, explain like gangster
 
 *Yo, listen up homie. When it comes to building web apps, there's a lotta tech out there to choose from, but I gotta tell ya, there's one that reigns supreme like the godfather of programming languages. And that's none other than... drumroll... JavaScript, my friend.*
 
