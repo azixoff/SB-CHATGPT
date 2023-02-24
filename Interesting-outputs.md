@@ -29,3 +29,7 @@
 > *"Why did the back-end developer call his dog 'Ajax'? Because it was always fetching data."*
 
 > *"Why do programmers prefer dark mode? Because light attracts bugs!"*
+
+> *"Why did the programmer name his son 'Cache'? Because he was always in memory."*
+
+> *"Why did the database administrator break up with his girlfriend? He couldn't COMMIT to the relationship."*
