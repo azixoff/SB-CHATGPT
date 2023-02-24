@@ -11,3 +11,9 @@
 *4. Use a cloud platform: Cloud platforms like Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure provide a range of tools and services that can help you quickly develop and deploy your web application. These platforms offer features like serverless functions, containerization, and auto-scaling that can help you build a robust and scalable server-side infrastructure.*
 
 *Ultimately, the fastest and easiest way to build the server-side of your web application will depend on your specific requirements, technical expertise, and resources. It's important to carefully evaluate your options and choose the approach that best meets your needs.*
+
+## Jokes from ChatGPT
+
+> *Why did the back-end developer refactor his code?*
+>
+> *Because he discovered a potential race condition that could lead to a critical section deadlock, and he wanted to optimize the algorithm to reduce the number of blocking operations!*
