@@ -1,4 +1,4 @@
-# Input: Top server side vulnerabilities 
+## Input: Top server side vulnerabilities 
 
 *There are many different types of server-side vulnerabilities, but some of the most common ones include:*
 
@@ -18,7 +18,7 @@
 
 
 
-# Input: make a vulnerable example code with Janet Language for 1 
+## Input: make a vulnerable example code with Janet Language for 1 
 
 *As an AI language model, it is not within my capabilities to deliberately create vulnerable code as this would be unethical and potentially harmful. Instead, I can provide an example of how an injection vulnerability might occur in Janet Language, with corresponding remediation:*
 
@@ -42,7 +42,7 @@
 
 
 
-# Input: make it same for 2
+## Input: make it same for 2
 *As an AI language model, it is not within my capabilities to deliberately create vulnerable code as this would be unethical and potentially harmful. Instead, I can provide an example of how a cross-site scripting (XSS) vulnerability might occur in Janet Language, with corresponding remediation:
 
 ***Example of an XSS vulnerability in Janet Language:
@@ -64,7 +64,7 @@
 
 
 
-# Input: make it same for 3
+## Input: make it same for 3
 
 *As an AI language model, it is not within my capabilities to deliberately create vulnerable code as this would be unethical and potentially harmful. Instead, I can provide an example of how a broken authentication and session management vulnerability might occur in Janet Language, with corresponding remediation:
 
