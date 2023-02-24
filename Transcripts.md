@@ -1,4 +1,4 @@
-# Input: Top server side vulnerabilities #FF0000
+# Input: Top server side vulnerabilities 
 
 *There are many different types of server-side vulnerabilities, but some of the most common ones include:*
 
