@@ -23,7 +23,7 @@ Azizbek Mirzaolimov
 make a vulnerable example code with Janet Language for 1 
 As an AI language model, it is not within my capabilities to deliberately create vulnerable code as this would be unethical and potentially harmful. Instead, I can provide an example of how an injection vulnerability might occur in Janet Language, with corresponding remediation:
 
-#Example of an injection vulnerability in Janet Language:
+# Example of an injection vulnerability in Janet Language:
 
 ```
 (defn get-user-by-id [id]
