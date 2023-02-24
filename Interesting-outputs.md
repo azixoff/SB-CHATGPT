@@ -25,3 +25,5 @@
 > *Why did the back-end developer quit his job?*
 >
 > *He didn't get arrays!*
+
+> *"Why did the back-end developer call his dog 'Ajax'? Because it was always fetching data."*
